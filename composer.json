@@ -1,5 +1,5 @@
 {
-    "name": "lmc/steward",
+    "name": "okrulik/steward",
     "description": "Steward - makes Selenium WebDriver + PHPUnit testing easy and robust",
     "keywords": [
         "selenium",
